@@ -1,2 +1,4 @@
 # Risk-Factors-for-Chronic-Emesis-in-Rhesus-Macaques
-Early life predictors of chronic emesis in rhesus macaques
+# Project Title: Early life predictors of chronic emesis in rhesus macaques
+
+# The study investigated the relationship between behavioral temperaments measured in early life and the development of chronic emesis (CE) in macaques. Results showed that lower scores in Confidence, Gentle, and Vigilant and higher scores in Nervousness were linked with the development of CE. Age at euthanasia and history of self-injurious behavior (SIB) were also positively associated with CE. The study supports the use of the Early Life Behavior Test (ELBT) in predicting animals at high risk of developing CE and improving their welfare. The study's small sample size of CE group limits its predictive power and calls for further validation. The association between SIB and CE implies a link to stressful events and comorbid behavioral problems.
