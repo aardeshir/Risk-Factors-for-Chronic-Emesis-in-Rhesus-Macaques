@@ -1,0 +1,16 @@
+// Figure 1
+
+Graph Builder(
+	Variables( X( :Cohort ), Y( :AgeY ) ),
+	Elements( Points( X, Y, Legend( 5 ) ), Box Plot( X, Y, Legend( 6 ) ) )
+)
+
+Oneway( Y( :AgeY ), X( :Cohort ), t Test( 1 ) )
+
+// Figure 2
+Graph Builder(
+	Variables( X( :Cohort ), Y( :EmStartAge ) ),
+	Elements( Points( X, Y, Legend( 3 ) ), Box Plot( X, Y, Legend( 4 ) ) )
+)
+
+Oneway( Y( :EmStartAge ), X( :Cohort ), t Test( 1 ) )
